@@ -35,46 +35,51 @@ The Java Console Calculator 🧮 is a simple Java-based console calculator devel
 - Language: Java (Basics)
 - Input: Java Scanner class  
 - IDE: i have used Eclipse
+---
+
 ## ✅ Sample Outputs
-# Output 1:
 
-Calculator
-Enter the number for operation : 
- 1.Arithmetic operation 
- 2.Bitwise operation
-1
-1.Addition 2.Subtraction 3.Multiplication 4.Division 5.Modulus
-3
-Enter first number :
-33
-Enter second number :
-66
-2178
-Do you want to continue: yes(1) / no(0)
-1
-Enter the number for operation : 
- 1.Arithmetic operation 
- 2.Bitwise operation
-2
-1.bitwise And 2.bitwise Or 3.bitwise XOr 4.bitwise Not
-1
-Enter first number :
-2
-Enter second number :
-6
-2
-Do you want to continue: yes(1) / no(0)
-0
+### Output 1:
+```
+Calculator  
+Enter the number for operation :  
+ 1.Arithmetic operation  
+ 2.Bitwise operation  
+1  
+1.Addition 2.Subtraction 3.Multiplication 4.Division 5.Modulus  
+3  
+Enter first number :  
+33  
+Enter second number :  
+66  
+2178  
+Do you want to continue: yes(1) / no(0)  
+1  
+Enter the number for operation :  
+ 1.Arithmetic operation  
+ 2.Bitwise operation  
+2  
+1.bitwise And 2.bitwise Or 3.bitwise XOr 4.bitwise Not  
+1  
+Enter first number :  
+2  
+Enter second number :  
+6  
+2  
+Do you want to continue: yes(1) / no(0)  
+0  
 Exiting the calculator. Goodbye!
+```
 
-# Output 2:
-Calculator
-Enter the number for operation : 
-1.Arithmetic operation 
-2.Bitwise operation
-3
-You gave invalid operation
-Do you want to continue: yes(1) / no(0)
-0
+### Output 2:
+```
+Calculator  
+Enter the number for operation :  
+ 1.Arithmetic operation  
+ 2.Bitwise operation  
+3  
+You gave invalid operation  
+Do you want to continue: yes(1) / no(0)  
+0  
 Exiting the calculator. Goodbye!
- 
+```
