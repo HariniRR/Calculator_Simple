@@ -1,4 +1,4 @@
-# Sample_Calculator
+# Sample_Calculators
 
 The Java Console Calculators 🧮 are simple Java-based console calculator developed as part of a practicing java. It supports both **arithmetic operations** and **bitwise operations** through a user-friendly menu-driven interface.
 
